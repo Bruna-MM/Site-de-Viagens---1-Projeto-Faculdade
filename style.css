@@ -1,0 +1,22 @@
+header{
+    background-color: #150257;
+}
+h1{
+    font-size: 63px;
+    color: #ffffff ;
+    padding:15px;
+    text-align: center;
+}
+h2{
+    font-size: 27px;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: 700px;
+}
+
+.carousel-caption h5 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    color: #79a2d8;
+    text-shadow: 2px 2px 2px black;
+}
